@@ -1,4 +1,4 @@
-Olá, meu nome é Thiago e esse é o passo a passo para executar o desafio técnico proposto pela seleção da Escribo.
+Olá, meu nome é Thiago e esse é o passo a passo para executar a função:
 
 Esse repositório contém:
 - 1 index.html
